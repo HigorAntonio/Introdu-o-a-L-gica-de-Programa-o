@@ -14,7 +14,7 @@ leia(A)
 escreva("B: ")
 leia(B)
 
-resultado := A^2 -2*A*B + B^2
+resultado := (A-B)^2
 
 escreva("O quadrado da diferença dos termos digitados é: ", resultado)
 fimalgoritmo
